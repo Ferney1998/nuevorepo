@@ -1,0 +1,28 @@
+Curso Javascript para Principiantes
+https://www.youtube.com/watch?v=RqQ1d1qEWlE  [2hrs]
+
+Javascript FullStack #1, Introduccion & Overview
+https://www.youtube.com/watch?v=Fs1G1BcP4BI&list=PLo5lAe9kQrwq7n_REwpZdfggPCBW2ggnh [10mins]
+
+
+Nodejs Curso Desde Cero, para principiantes
+https://www.youtube.com/watch?v=BhvLIzVL8_o [1hr 42mins]
+
+
+Javascript Aplicación de Tareas desde Cero
+https://www.youtube.com/watch?v=Ko_S79ZGDqI  [47 mins]
+
+
+Aplicación de Productos con Javascript Orientado a Objetos
+https://www.youtube.com/watch?v=nqre9kKFRpc    [1hr]
+
+Nodejs y Mongodb Aplicación completa (Login, Registro,CRUD, ES6+, y más)
+https://www.youtube.com/watch?v=-bI0diefasA   [3hrs 20mins]
+
+
+Nodejs y Mysql, Aplicación Completa (Login, Registro, CRUD, ES6+ y Más )
+https://www.youtube.com/watch?v=qJ5R9WTW0_E   [3hrs 40mins]
+
+
+Tu primer REST API usando Node.js, ¿Que es una REST API?
+https://www.youtube.com/watch?v=bK3AJfs7qNY  [1hr 16mins]
