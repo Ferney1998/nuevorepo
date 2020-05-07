@@ -26,3 +26,4 @@ https://www.youtube.com/watch?v=qJ5R9WTW0_E   [3hrs 40mins]
 
 Tu primer REST API usando Node.js, ¿Que es una REST API?
 https://www.youtube.com/watch?v=bK3AJfs7qNY  [1hr 16mins]
+.....
